@@ -110,6 +110,7 @@ p {
     display: flex;
     align-items: center;
     justify-content: center;
+    
 }
 
 .bottom-content {
@@ -149,5 +150,28 @@ nav a{
 	color: black;
 	text-decoration: none;
     padding: 6%;
-    
+}
 
+#main {
+    background-color: teal;
+}
+
+#main2 {
+    background-color: gold;
+}#main3 {
+    background-color: cadetblue;
+}#main4 {
+    background-color: coral;
+}#main5 {
+    background-color: crimson;
+}#main6 {
+    background-color: forestgreen;
+}#main7 {
+    background-color: darkorchid
+}#main8 {
+    background-color: hotpink
+}#main9 {
+    background-color: indigo
+}#main10 {
+    background-color: dodgerblue;
+}
