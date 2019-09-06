@@ -1,0 +1,18 @@
+If you were to describe semantic HTML to the next cohort of students, what would you say?
+
+Semantic HTMl is a mark up which outlines the document for a web page, which includes the header, titile, footer and etc. 
+
+Name two big differences between display: block; and display: inline;.
+
+Display inline means that element is dispalyed as taking the width it only needs display block takes the full width availibe
+
+What are the 4 areas of the box model?
+
+The 4 areas of the 4 box model are ccontext area, padding area,  border area and margin area. 
+
+While using flexbox, what axis does the following property work on: align-items: center?
+The cross axis 
+
+Explain why git is valuable to a team of developers.
+
+git is valuble to a team of developers becuase it makes it easier for everyone to evaluate code in a team 
